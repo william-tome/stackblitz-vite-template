@@ -1,41 +1,41 @@
 {
-  "name": "stackblitz-vite-template",
-  "bucket": "stackblitz-vite-template",
+  "name": "stackblitz-vite-template-20240528134132",
+  "bucket": "stackblitz-vite-template-20240528134132",
   "preset": "vue",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240528132531",
+  "prefix": "20240528134131",
   "not-first-run": true,
   "function": {
-    "id": 47600,
+    "id": 47601,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 52130,
+    "instance-id": 52131,
     "instance-name": "__DEFAULT__"
   },
   "application": {
-    "id": 1716904563,
+    "id": 1716904564,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1716907944,
-    "name": "stackblitz-vite-template",
-    "domain_name": "mnfg05hbuv.map.azionedge.net",
-    "url": "https://mnfg05hbuv.map.azionedge.net"
+    "id": 1716907945,
+    "name": "stackblitz-vite-template-20240528134132",
+    "domain_name": "sd527gawj9.map.azionedge.net",
+    "url": "https://sd527gawj9.map.azionedge.net"
   },
   "rt-purge": {
     "purge_on_publish": true
   },
   "origin": [
     {
-      "origin-id": 363963,
-      "origin-key": "409db7ac-4d61-4ccd-bcde-e41db4ba9700",
-      "name": "stackblitz-vite-template_single"
+      "origin-id": 363965,
+      "origin-key": "4183877f-b695-4c6a-ae6a-f30fa237350d",
+      "name": "stackblitz-vite-template-20240528134132_single"
     },
     {
-      "origin-id": 363964,
-      "origin-key": "87af97f1-38a2-4a61-b051-c98a0b8b0f60",
+      "origin-id": 363966,
+      "origin-key": "561e3a5c-e493-4749-b58e-2fbe18628838",
       "name": "origin-storage-default"
     }
   ],
@@ -43,15 +43,15 @@
     "created": false,
     "rules": [
       {
-        "id": 421176,
+        "id": 421181,
         "name": "Main_Rule"
       },
       {
-        "id": 421177,
+        "id": 421182,
         "name": "Index_Rewrite_1"
       },
       {
-        "id": 421178,
+        "id": 421183,
         "name": "Index_Rewrite_2"
       }
     ]
