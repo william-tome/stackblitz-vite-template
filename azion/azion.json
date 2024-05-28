@@ -1,41 +1,41 @@
 {
-  "name": "stackblitz-vite-template-20240528134443",
-  "bucket": "stackblitz-vite-template-20240528134443",
+  "name": "stackblitz-vite-template-20240528144823",
+  "bucket": "stackblitz-vite-template-20240528144823",
   "preset": "vue",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240528134442",
+  "prefix": "20240528144822",
   "not-first-run": true,
   "function": {
-    "id": 47602,
+    "id": 47603,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 52132,
+    "instance-id": 52133,
     "instance-name": "__DEFAULT__"
   },
   "application": {
-    "id": 1716904565,
+    "id": 1716904566,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1716907946,
-    "name": "stackblitz-vite-template-20240528134443",
-    "domain_name": "rhrrxqht4v.map.azionedge.net",
-    "url": "https://rhrrxqht4v.map.azionedge.net"
+    "id": 1716907947,
+    "name": "stackblitz-vite-template-20240528144823",
+    "domain_name": "v3jlli3ons.map.azionedge.net",
+    "url": "https://v3jlli3ons.map.azionedge.net"
   },
   "rt-purge": {
     "purge_on_publish": true
   },
   "origin": [
     {
-      "origin-id": 363967,
-      "origin-key": "4a139157-21a6-44a1-a1eb-1b034f3760d9",
-      "name": "stackblitz-vite-template-20240528134443_single"
+      "origin-id": 363970,
+      "origin-key": "efa968c1-0344-4a59-84a3-4a3a4e3b5f2f",
+      "name": "stackblitz-vite-template-20240528144823_single"
     },
     {
-      "origin-id": 363968,
-      "origin-key": "1195f199-4915-4e81-839a-2bb21bac499e",
+      "origin-id": 363971,
+      "origin-key": "7a8a272a-16b3-43b6-9448-4036994f2361",
       "name": "origin-storage-default"
     }
   ],
@@ -43,15 +43,15 @@
     "created": false,
     "rules": [
       {
-        "id": 421186,
+        "id": 421191,
         "name": "Main_Rule"
       },
       {
-        "id": 421187,
+        "id": 421192,
         "name": "Index_Rewrite_1"
       },
       {
-        "id": 421188,
+        "id": 421193,
         "name": "Index_Rewrite_2"
       }
     ]
